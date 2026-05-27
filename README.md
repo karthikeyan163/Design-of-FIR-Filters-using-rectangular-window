@@ -187,6 +187,7 @@ xlabel( ' Normalized Digital Frequency W' );
 ylabel( 'Magnitude in dB'); 
 title('Frequency Response of FIR BSF using Rectangular Window');
 
+
 ```
 ### OUTPUT
 #### a. Design of Low Pass FIR Digital filter
